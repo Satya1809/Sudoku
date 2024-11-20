@@ -29,8 +29,7 @@ Installation
 
   1. Clone this repository to your local machine:
 
-    git clone https://github.com/mahanaatma1/Sudoku.git
-
+    git clone https://github.com/Satya1809/Sudoku.git
   2. Navigate to the project directory:
 
     cd Sudoku
